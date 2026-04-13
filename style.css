@@ -74,3 +74,61 @@ nav ul a:hover {
     text-align: center;
     padding: 20px;
 }
+
+#modulos > h2 {
+    background-color: #333;
+    padding: 10px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+#modulos div h2 {
+    margin: 50px 0;
+    text-align: center;
+}
+
+
+#modulos ul {
+    margin: 50px 0;
+}
+
+#modulos ul {
+    background-color: #f4f4f4;
+    list-style: none;
+    margin: 15px;
+}
+
+#modulos ul li {
+    line-height: 1.5;
+}
+
+#mercado {
+    text-align: center;
+}
+
+#mercado h2 {
+    margin: 50px 0;
+}
+
+#mercado div {
+    padding: 20px;
+    background-color: #d40485;
+    margin: 10px 0;
+    color: #fff;
+}
+
+#contato {
+    padding: 100px 200px;
+}
+
+#contato h2 {
+    margin: 50px 0;
+}
+
+#contato input {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+}
+
